@@ -1,4 +1,4 @@
-##Dice Rolling Game
+## Dice Rolling Game
 
 This is a basic project of Dice Rolling Simulator in Python with Gui (Tkinter).
 
