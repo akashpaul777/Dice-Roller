@@ -3,7 +3,7 @@ Dice Rolling (Guessing) Simulator
 
 Author : Akash paul
 Github : akashpaul777-MB
-Linkedin : https://www.linkedin.com/in/muhammadbilal-mb/
+Linkedin : https://www.linkedin.com/in/akash-paull/-mb/
 
 """
 
