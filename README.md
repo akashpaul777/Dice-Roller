@@ -4,11 +4,11 @@ This is a basic project of Dice Rolling Simulator in Python with Gui (Tkinter).
 
 -----You can download attached .exe file------
 
-"""
+"""bash
 Dice Rolling (Guessing) Simulator
 
-Author : Akash Paul
-Github : akashpaul777
+Author : Akash Paul <br>
+Github : akashpaul777<br>
 Linkedin : https://www.linkedin.com/in/akash-paull/
 
 """
