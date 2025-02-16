@@ -7,8 +7,8 @@ This is a basic project of Dice Rolling Simulator in Python with Gui (Tkinter).
 ```bash
 Dice Rolling (Guessing) Simulator
 
-Author : Akash Paul <br>
-Github : akashpaul777<br>
+Author : Akash Paul
+Github : akashpaul777
 Linkedin : https://www.linkedin.com/in/akash-paull/
 
 ```
