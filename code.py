@@ -1,8 +1,8 @@
 """
 Dice Rolling (Guessing) Simulator
 
-Author : Muhammad Bilal
-Github : Muhammad-Bilal-MB
+Author : Akash paul
+Github : akashpaul777-MB
 Linkedin : https://www.linkedin.com/in/muhammadbilal-mb/
 
 """
