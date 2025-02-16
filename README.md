@@ -13,7 +13,7 @@ Linkedin : https://www.linkedin.com/in/akash-paull/
 
 ```
 
-**Decription***: A simple Dice Rolling (Guessing) Simulator made with Python (Tkinter). This game must be played between two players. They enter their name and their desired number from Dice (1-6). Anyone who lose will have to perform the darer specified earlier by both players. Give it a try. Thanks !
+**Decription**: A simple Dice Rolling (Guessing) Simulator made with Python (Tkinter). This game must be played between two players. They enter their name and their desired number from Dice (1-6). Anyone who lose will have to perform the darer specified earlier by both players. Give it a try. Thanks !
 
 
 
